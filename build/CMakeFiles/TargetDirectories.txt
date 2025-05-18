@@ -1,3 +1,3 @@
-/home/kano/Daheng_Driver/build/CMakeFiles/text.dir
+/home/kano/Daheng_Driver/build/CMakeFiles/Daheng_Driver.dir
 /home/kano/Daheng_Driver/build/CMakeFiles/edit_cache.dir
 /home/kano/Daheng_Driver/build/CMakeFiles/rebuild_cache.dir

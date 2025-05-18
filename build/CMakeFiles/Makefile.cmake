@@ -128,5 +128,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/text.dir/DependInfo.cmake"
+  "CMakeFiles/Daheng_Driver.dir/DependInfo.cmake"
   )

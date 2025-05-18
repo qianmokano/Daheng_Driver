@@ -145,7 +145,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=text
+CMAKE_PROJECT_NAME:STATIC=Daheng_Driver
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -209,20 +209,20 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Value Computed by CMake
+Daheng_Driver_BINARY_DIR:STATIC=/home/kano/Daheng_Driver/build
+
+//Value Computed by CMake
+Daheng_Driver_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Daheng_Driver_SOURCE_DIR:STATIC=/home/kano/Daheng_Driver
+
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/usr/local/lib/cmake/opencv4
 
 //The directory containing a CMake configuration file for YAML-CPP.
 YAML-CPP_DIR:PATH=/usr/local/lib/cmake/yaml-cpp
-
-//Value Computed by CMake
-text_BINARY_DIR:STATIC=/home/kano/Daheng_Driver/build
-
-//Value Computed by CMake
-text_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-text_SOURCE_DIR:STATIC=/home/kano/Daheng_Driver
 
 
 ########################

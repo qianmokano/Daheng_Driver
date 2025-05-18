@@ -1,7 +1,7 @@
 # 设置cmake最低版本
 cmake_minimum_required(VERSION 3.15)
 # project命令用于指定cmake工程的名称
-project(text)
+project(Daheng_Driver)
 # 查找依赖包
 find_package(OpenCV REQUIRED)
 find_package(YAML-CPP REQUIRED)
